@@ -1,0 +1,17 @@
+body
+{
+	background: mediumspringgreen;
+}
+
+	.Player_1 
+	{
+		background:limegreen;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+    #player_1txt, #player_2txt{
+        background-color: seagreen;
+        color: white;
+    }
+
